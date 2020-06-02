@@ -1,0 +1,98 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders WeatherDetails 1`] = `
+<div
+  className="weatherDetails__main"
+>
+  <div
+    className="weatherDetails__left_container"
+  >
+    <div
+      className="weatherDetails__icon"
+    >
+      <img
+        alt="weather forecast icon"
+        src="http://openweathermap.org/img/wn/01d@2x.png"
+      />
+    </div>
+    <div
+      className="weatherDetails__temperature_container"
+    >
+      <span
+        className="weatherDetails__temperature"
+      >
+        20
+      </span>
+      <div
+        className="weatherDetails__unit_click active"
+      >
+        <span
+          className="weatherDetails__unit"
+          onClick={[Function]}
+        >
+          °C
+        </span>
+      </div>
+      <span
+        className="weatherDetails__vert_separator"
+      >
+        |
+      </span>
+      <div
+        className="weatherDetails__unit_click "
+      >
+        <span
+          className="weatherDetails__unit"
+          onClick={[Function]}
+        >
+          °F
+        </span>
+      </div>
+    </div>
+  </div>
+  <div
+    className="weatherDetails__right_container"
+  >
+    <div
+      className="weatherDetails__precipitation"
+    >
+      Precipitation: 
+      0
+      mm
+    </div>
+    <div
+      className="weatherDetails__humidity"
+    >
+      Humidity: 
+      20
+      %
+    </div>
+    <div
+      className="weatherDetails__wind"
+    >
+      Wind: 
+      18
+       km/h
+    </div>
+    <div
+      className="weatherDetails__conditions"
+    >
+      <button
+        className="weatherDetails__conditions_button"
+      >
+        Temperature
+      </button>
+      <button
+        className="weatherDetails__conditions_button"
+      >
+        Precipitation
+      </button>
+      <button
+        className="weatherDetails__conditions_button"
+      >
+        Wind
+      </button>
+    </div>
+  </div>
+</div>
+`;

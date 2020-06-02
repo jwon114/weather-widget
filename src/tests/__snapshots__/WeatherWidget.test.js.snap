@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders WeatherWidget 1`] = `
+<div
+  className="weatherApp__container"
+>
+  <div
+    className="weatherApp__loading"
+  >
+    <img
+      alt="loading_spinner"
+      src="loading.gif"
+    />
+  </div>
+</div>
+`;

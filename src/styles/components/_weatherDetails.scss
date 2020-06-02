@@ -1,0 +1,74 @@
+.weatherDetails__main {
+  display: flex;
+  align-items: flex-start;
+  padding-top: 20px;
+}
+
+.weatherDetails__left_container {
+  display: flex;
+  flex-grow: 1.5;
+  flex-basis: 0;
+  align-items: center;
+}
+
+.weatherDetails__icon {
+  /* height: 64px; */
+  /* width: 128px; */
+  width: 100px;
+}
+
+.weatherDetails__right_container {
+  flex-grow: 1;
+  flex-basis: 0;
+  margin-top: 8px;
+}
+
+.weatherDetails__right_container > * {
+  line-height: 1.2;
+}
+
+.weatherDetails__temperature_container {
+  display: flex;
+  align-items: flex-start;
+  color: $off-black;
+}
+
+.weatherDetails__temperature {
+  font-size: $xxl-size;
+}
+
+.weatherDetails__celsius {
+  margin-top: 8px;
+}
+
+.weatherDetails__conditions {
+  display: flex;
+  margin-top: 20px;
+}
+
+.weatherDetails__conditions_button {
+  border: 1px solid $off-grey;
+  padding: 5px 8px;
+  background-color: $off-white;
+  font-size: $s-size;
+  color: $light-black;
+  font-weight: bold;
+}
+
+.weatherDetails__unit_click:hover {
+  cursor: pointer;
+}
+
+
+.weatherDetails__unit_click.active:hover {
+  cursor: default;
+}
+
+.weatherDetails__unit_click.active {
+  pointer-events: none;
+  text-decoration: underline;
+}
+
+.weatherDetails__vert_separator {
+  margin: 0 5px;
+}

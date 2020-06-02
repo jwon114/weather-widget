@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders Header 1`] = `
+<div
+  className="header__container"
+>
+  <div
+    className="header__location"
+  >
+    London
+  </div>
+  <div
+    className="header__time"
+  >
+    Tuesday
+     
+    11:01 AM
+  </div>
+  <div
+    className="header__summary"
+  >
+    cloudy with a chance of meatballs
+  </div>
+</div>
+`;

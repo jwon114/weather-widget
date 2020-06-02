@@ -1,0 +1,9 @@
+html {
+  font-size: 62.5%; //16px = 1rem, so 1rem = 0.625 * 16 = 10px
+}
+
+body {
+  font-family: Arial, sans-serif;
+  font-size: $m-size;
+  color: $light-grey;
+}

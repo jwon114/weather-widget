@@ -1,0 +1,14 @@
+.weatherApp__container {
+  width: 600px;
+  margin: 20px auto;
+  box-shadow: 0 2px 2px 0 rgba(0,0,0,0.16), 0 0 0 1px rgba(0,0,0,0.08);
+  padding: 20px 16px 24px 16px;
+}
+
+.weatherApp__loading {
+  text-align: center;
+}
+
+.weatherApp__loading img {
+  width: 100px;
+}
