@@ -3,8 +3,8 @@ Widget that displays the current weather forecast based on geolocation.
 Temperature can be in degrees celsius or fahrenheit.
 
 
-![alt text](https://github.com/jwon114/tech-task-front-end/raw/master/screenshots/weatherApp_celsius.png "weather app celsius")
-![alt text](https://github.com/jwon114/tech-task-front-end/raw/master/screenshots/weatherApp_fahrenheit.png "weather app fahrenheit")
+![alt text](https://github.com/jwon114/weather-widget/raw/master/screenshots/weatherWidget_celsius.png "weather app celsius")
+![alt text](https://github.com/jwon114/weather-widget/raw/master/screenshots/weatherWidget_fahrenheit.png "weather app fahrenheit")
 ## Prerequisites
 - Node >= 10.15.3
 ## Installing
