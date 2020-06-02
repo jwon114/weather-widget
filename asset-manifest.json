@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jwon114/n/static/css/main.7f35932d.chunk.css",
+    "main.js": "/jwon114/n/static/js/main.f4253871.chunk.js",
+    "main.js.map": "/jwon114/n/static/js/main.f4253871.chunk.js.map",
+    "runtime-main.js": "/jwon114/n/static/js/runtime-main.a5494d18.js",
+    "runtime-main.js.map": "/jwon114/n/static/js/runtime-main.a5494d18.js.map",
+    "static/js/2.3c7f9527.chunk.js": "/jwon114/n/static/js/2.3c7f9527.chunk.js",
+    "static/js/2.3c7f9527.chunk.js.map": "/jwon114/n/static/js/2.3c7f9527.chunk.js.map",
+    "index.html": "/jwon114/n/index.html",
+    "precache-manifest.4a9324979c47d7f798af3a0a0d76e31d.js": "/jwon114/n/precache-manifest.4a9324979c47d7f798af3a0a0d76e31d.js",
+    "service-worker.js": "/jwon114/n/service-worker.js",
+    "static/css/main.7f35932d.chunk.css.map": "/jwon114/n/static/css/main.7f35932d.chunk.css.map",
+    "static/js/2.3c7f9527.chunk.js.LICENSE.txt": "/jwon114/n/static/js/2.3c7f9527.chunk.js.LICENSE.txt",
+    "static/media/loading.gif": "/jwon114/n/static/media/loading.f5c44a27.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5494d18.js",
+    "static/js/2.3c7f9527.chunk.js",
+    "static/css/main.7f35932d.chunk.css",
+    "static/js/main.f4253871.chunk.js"
+  ]
+}
